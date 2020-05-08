@@ -21,8 +21,3 @@ npm run build
 **4. Start local production server with [serve](https://github.com/zeit/serve):**
 
 npm start
-
-**5. Vulnerabilites :**
-> If there are any vulnerabilities use audit fix
-
-npm audit fix
